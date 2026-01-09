@@ -1,5 +1,5 @@
 # Proyectos2026
-Markdown# Proyectos Python 2026 - @m_villacis
+# Proyectos Python 2026 - @m_villacis
 
 Portafolio personal de proyectos en Python durante 2026.  
 Enfoque: Automatización, Data Analysis, IA/GenAI y Web Apps.
